@@ -6,7 +6,7 @@
         ===========================
         Manage automatic Currency between Multi Currencies.
     """,
-    'version': '18.0',
+    'version': '19.0',
     'author': "Bn Technologies",
     'category': 'Accounting/Accounting',
     'depends': ['base', 'account', 'sale'],
