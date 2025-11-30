@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': 'Account Second Currency Exchange',
+    'name': 'Accounting Second Currency Exchange',
     'description': """
         Account Automatic Transfers
         ===========================
